@@ -11,7 +11,7 @@ Frontend Mentor challenges help improve coding skills by building real-world UI 
 
 ---
 
-## 🛠️ Built with
+## Built with
 
 - Semantic HTML5
 - CSS custom properties
@@ -36,6 +36,7 @@ Example of centering the card:
   place-items: center;
   height: 100vh;
 }
+```
 
 ## Continued development
 
