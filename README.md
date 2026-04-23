@@ -36,3 +36,27 @@ Example of centering the card:
   place-items: center;
   height: 100vh;
 }
+
+## Continued development
+
+Going forward, I want to focus on:
+
+- Improving accessibility (e.g. semantic HTML and better text readability)
+- Writing cleaner, reusable CSS using variables
+
+
+---
+
+## AI Collaboration
+
+I used AI tools (ChatGPT) during this project for:
+
+- Debugging CSS layout issues
+- Understanding Flexbox vs Grid differences
+
+---
+
+## 👤 Author
+
+- Frontend Mentor - [@mxria-a](https://www.frontendmentor.io/profile/mxria-a)
+- GitHub - [https://github.com/mxria-a]
