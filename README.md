@@ -31,7 +31,7 @@ This project helped me improve my understanding of:
 Example of centering the card:
 
 ```css
-body {
+.card-container {
   display: grid;
   place-items: center;
   height: 100vh;
