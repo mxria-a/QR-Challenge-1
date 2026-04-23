@@ -57,7 +57,7 @@ I used AI tools (ChatGPT) during this project for:
 
 ---
 
-## 👤 Author
+## Author
 
 - Frontend Mentor - [@mxria-a](https://www.frontendmentor.io/profile/mxria-a)
 - GitHub - [https://github.com/mxria-a]
