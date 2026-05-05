@@ -20,7 +20,7 @@ body {
     padding: 16px 16px 40px 16px;
     gap: 16px;
     box-sizing: border-box;
-    box-shadow: 0 25px 25px 0 (0, 0, 0, 0.05);
+    box-shadow: 0 25px 25px 0 rgba(0, 0, 0, 0.05);
 }
 
 .card img {
